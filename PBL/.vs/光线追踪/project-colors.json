@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "17aa77d8-f76f-41f6-b66a-325d4e942c32": {
+      "ProjectGuid": "17aa77d8-f76f-41f6-b66a-325d4e942c32",
+      "DisplayName": "光线追踪",
+      "ColorIndex": 0
+    },
+    "d0e98f7e-3067-45ce-8381-792369dac875": {
+      "ProjectGuid": "d0e98f7e-3067-45ce-8381-792369dac875",
+      "DisplayName": "text",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
